@@ -1,0 +1,240 @@
+
+Adv.Python:-
+------------------
+Oops  principles:-
+------------------------
+-->oops principles are nothing but certain rules or guide lines,
+-->different oops principles are:- 1.Encapsulation, 2.Inheritence, 3.Polymorphism, 4.Abstraction,
+-->if we impliment bussiness organisation use cases in any prog.lang. according to the oops principles then we will get following benifits in those applications:
+i.security,
+ii.flexibility,
+iii.Re-usability.
+
+Object Oriented Prog.lang.:-
+------------------------------------
+-->The prog. lang. which provides special syntax to impliment the applications in that lang. according to the oops principles are known as oops.
+Ex: C++, java, .net, python, ..........etc.
+-->if we impliment the bussiness organisation use cases in python lang. according to the procedure orientation mechanisms,then we will facefollowing problems in the applications.
+-->security is missing for the global variables
+-->multiple people cannot able to access the application at a time
+-->memory management is inefficient
+Ex:  Cname =None |
+        Cadd =None    |
+        Cacno =None   |
+        Cbal =None      |
+        Cadd = none    |---->Global variables
+        Cname =None |
+        Cid =None        |
+        Csal =None      | 
+
+      def deposite( ):
+              ---------------
+              ---------------
+      def withdraw( ):
+             -----------------
+             -----------------
+     def tranfer( ):
+            ---------------
+            ---------------
+     def balname( ):
+           ----------------
+           ----------------
+     def da( ):
+           ----------
+           ----------
+     def hva( ):
+           -----------
+           -----------
+     def pf( ):
+           ----------
+           ----------
+     def tsal( ):
+           -----------
+           -----------
+     def tax( ):
+           ----------
+           ----------
+*Encapsulation:-
+-----------------------
+-->The concept of building or grouping related data members along with its related functionalities is known as encapsulation.
+Ex1:     cname = none 
+           cadd=none
+           cacno=none 
+           cbal=none
+           def deposit( ):
+                 --------------
+                 --------------
+          def withdraw( ):
+                ------------------
+                ------------------
+          def transfer( ):
+                ----------------
+                ----------------
+           def balance( ):
+                 -----------------
+                 -----------------
+
+
+  Ex2: ename = none 
+           eadd=none
+           eid=none 
+           esal=none
+           def da( ):
+                 --------------
+                 --------------
+          def hva( ):
+                ------------------
+                ------------------
+          def pf( ):
+                ----------------
+                ----------------
+           def tsal( ):
+                 -----------------
+                 ----------------- 
+           def tax( ):
+                 -----------------
+                 -----------------
+
+Class:-
+---------
+-->Class is a syntax or structural or container is used to group related data members along with its related functionalities.
+syntax: class <classname>:
+                      """doc str"""
+                ------------------------    _____ Data-->variabes 
+                ------------------------    
+                ------------------------    _____ operations-->methods
+                -------------------------
+
+Documentation string:-
+-------------------------------
+-->documentation string of a class is used to provide discription about the class
+-->with in the class syntax documentation string is operational but it is hihgly recommended to define      documentation string with the class syntax
+-->with in th class syntax documentation string is optional but it is highly recommended to define documentation       string  with the class syntax
+-->we can access the the documentation string of a class from outside of the class by using (__doc__) default default      attribute of a class
+Ex: print("begin")
+       class Test:
+              """sample class to test doc str"""
+       print("end")
+       print(Test.__doc__)
+       print(list.__doc__)
+           run command
+           begin
+           sample class to test doc str
+           end 
+           built-in mutable sequence
+-->If no argument is given, the constructor creates a new empty list
+-->The argument must be an iterable if specified
+>>>
+Data:-
+---------
+-->Data can be represented with in theclass by using variables 
+-->we can define three types of variables with in the class. They are:-
+1.static variables or class variables
+2.non static variables or instance variables
+3.local variables 
+
+Operations:-
+-----------------
+-->operations can be represented with in the class by using methods
+-->we can define three of methods within class they are:-
+1.static methods
+2.non-static methods
+3.class methods
+
+Object:-
+-----------
+-->The concept of allocating memory space for non-static variables of a class at run time dynmically is known as      object.
+                 ( or )
+-->instance of a class is known as object. Instance means dynamic memory allocation.
+syntax:-
+                   referrence variable name= classname( )
+-->
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
