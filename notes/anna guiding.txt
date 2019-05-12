@@ -1,0 +1,100 @@
+Right click on each folder and show me size 
+go inside and show me each folder size
+8
+show me what is inther  venu folder
+why you nedd alk these ?
+i dont know anna aa folder maku sir institute loo command prompt loo virtualenvironment create cheyamani cheppadu so adhi alaa create ayyindi 
+remove it
+you mean i should delete it?
+delete venu foldee
+done
+check the size of project now
+delete idea folder
+k
+on this notepad if you done typing press enter so that i can understand...
+yes i have deleted idea folder press entet to tell me i am done typing
+giod
+good
+next em cheyyali anna
+one min
+
+ok
+now go to your command promt .. and type git add .
+akkada dot
+ must aa?
+
+yes it says add all files in this folder 
+okarey icchina command sariga type cheyaneeki guda rada ?
+
+git ki add ki space pettakudada?
+pettali
+then nenu git add. ane tyoe chesa
+
+neenem icchano okasari sarigga chudu..
+git add. idega nvv ichina command.....
+?
+nenu icchina command lo add ki dot ki madya space undi....
+kanbadaleda
+now jn
+hmm k k sorry ann
+now tyoe git status
+now type git commit -m"my first commit with sample code"
+now type git status
+now type git push
+it asked me to login nd i did it once see anna
+ok
+now goto browser and refresh your project
+ok
+now in browser create a branch from master
+sorry anna i didnt get you
+show me browser
+ok
+click on branch:master
+ok
+i did it
+click on branch:master
+thats what i did it now it self
+click on branch:master
+ok
+click on branch:master arrow down box
+do it how i did
+create a branch fir this week. name it 'practice-session-1'
+ok
+sibclckn gleo n cqreuoattee  bran
+clecj 
+click on  create branch
+ok
+go to command promt and type 7
+
+go to browser and delete the branch you just created
+
+first origin/ antu oka command ichavu adhi type cheyyala vadha
+git push
+
+browser loki velli elaa delete cheyyali anna branch ni
+?git branch --set-upstream-to=origin/practice-session-1
+run thus command
+ok
+run chesanu a
+ok.. now type git pull and then git push
+ok
+good store all the commands i said in the note folder 
+..
+ok anna
+..
+one min
+
+
+store all the commands or this file in note folder .. and type git status and type git add file name from status list and git commit -m"my second commit" and then git push and then git pull
+..... then call
+
+store this file as it is  as of niw
+ok doing right now
+
+
+
+
+
+
+
+
